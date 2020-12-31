@@ -1,0 +1,7 @@
+C:\Users\U1\programing\ProgramCSharp\CS-Lessons\CS-Lessons\bin\Debug\CS-Lessons.exe.config
+C:\Users\U1\programing\ProgramCSharp\CS-Lessons\CS-Lessons\bin\Debug\CS-Lessons.exe
+C:\Users\U1\programing\ProgramCSharp\CS-Lessons\CS-Lessons\bin\Debug\CS-Lessons.pdb
+C:\Users\U1\programing\ProgramCSharp\CS-Lessons\CS-Lessons\obj\Debug\CS-Lessons.csprojAssemblyReference.cache
+C:\Users\U1\programing\ProgramCSharp\CS-Lessons\CS-Lessons\obj\Debug\CS-Lessons.csproj.CoreCompileInputs.cache
+C:\Users\U1\programing\ProgramCSharp\CS-Lessons\CS-Lessons\obj\Debug\CS-Lessons.exe
+C:\Users\U1\programing\ProgramCSharp\CS-Lessons\CS-Lessons\obj\Debug\CS-Lessons.pdb

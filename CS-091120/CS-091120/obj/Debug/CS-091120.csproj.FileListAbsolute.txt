@@ -1,0 +1,7 @@
+C:\Users\U1\programing\ProgramCSharp\CS-091120\CS-091120\obj\Debug\CS-091120.csprojAssemblyReference.cache
+C:\Users\U1\programing\ProgramCSharp\CS-091120\CS-091120\obj\Debug\CS-091120.csproj.CoreCompileInputs.cache
+C:\Users\U1\programing\ProgramCSharp\CS-091120\CS-091120\bin\Debug\CS-091120.exe.config
+C:\Users\U1\programing\ProgramCSharp\CS-091120\CS-091120\bin\Debug\CS-091120.exe
+C:\Users\U1\programing\ProgramCSharp\CS-091120\CS-091120\bin\Debug\CS-091120.pdb
+C:\Users\U1\programing\ProgramCSharp\CS-091120\CS-091120\obj\Debug\CS-091120.exe
+C:\Users\U1\programing\ProgramCSharp\CS-091120\CS-091120\obj\Debug\CS-091120.pdb

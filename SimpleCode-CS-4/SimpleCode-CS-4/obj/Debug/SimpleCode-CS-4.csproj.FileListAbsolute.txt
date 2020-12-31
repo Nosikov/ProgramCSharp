@@ -1,0 +1,7 @@
+C:\Users\U1\programing\ProgramCSharp\SimpleCode-CS-4\SimpleCode-CS-4\bin\Debug\SimpleCode-CS-4.exe.config
+C:\Users\U1\programing\ProgramCSharp\SimpleCode-CS-4\SimpleCode-CS-4\bin\Debug\SimpleCode-CS-4.exe
+C:\Users\U1\programing\ProgramCSharp\SimpleCode-CS-4\SimpleCode-CS-4\bin\Debug\SimpleCode-CS-4.pdb
+C:\Users\U1\programing\ProgramCSharp\SimpleCode-CS-4\SimpleCode-CS-4\obj\Debug\SimpleCode-CS-4.csprojAssemblyReference.cache
+C:\Users\U1\programing\ProgramCSharp\SimpleCode-CS-4\SimpleCode-CS-4\obj\Debug\SimpleCode-CS-4.csproj.CoreCompileInputs.cache
+C:\Users\U1\programing\ProgramCSharp\SimpleCode-CS-4\SimpleCode-CS-4\obj\Debug\SimpleCode-CS-4.exe
+C:\Users\U1\programing\ProgramCSharp\SimpleCode-CS-4\SimpleCode-CS-4\obj\Debug\SimpleCode-CS-4.pdb
